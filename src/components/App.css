@@ -1,0 +1,25 @@
+.App-h1 {
+    font-size: 45px;
+    color: purple;
+    text-align:  left;
+    background-color: yellow;
+    border: 2px solid black;
+    font-style: italic;
+}
+
+.App-h2 {
+    text-align:  center;
+    font-size:   40px;
+    font-style: italic;
+    color: purple;
+}
+
+.Card {
+    width: 18rem;
+    margin: 0 auto;
+    background-color: yellow;
+}
+
+.Container {
+    margin-top: 100; 
+}
