@@ -1,3 +1,12 @@
+Directory Demo
+
+![Company Directory (4)](https://user-images.githubusercontent.com/64905823/97226655-aa103480-17aa-11eb-8c30-90eab2c4f8e5.gif)
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
